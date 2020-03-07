@@ -12,7 +12,7 @@
     "apollo-server": "^2.4.8",
     "cors": "^2.8.5",
     "graphql": "^14.1.1",
-    "mongoose": "^5.4.19",
+    "mongoose": "^5.7.5",
     "node-uuid": "^1.4.8"
   }
 }
