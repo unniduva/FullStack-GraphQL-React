@@ -1,6 +1,6 @@
 import { gql } from "apollo-boost";
 const getUserQuery = gql`
-{ Query user($email:String){
+query user($email:String){
     user(email:$email) {
         name
         age
@@ -9,7 +9,7 @@ const getUserQuery = gql`
     }
 }
    
-}
+
 `;
 
 
