@@ -9,7 +9,7 @@
   "author": "Unnikrisshh",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.4.8",
+    "apollo-server": "^2.25.3",
     "cors": "^2.8.5",
     "graphql": "^14.1.1",
     "mongoose": "^5.4.19",
